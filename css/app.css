@@ -1,6 +1,6 @@
 .square { height: 78px; }
-.light { background: url(../img/light.jpg); }
-.dark { background: url(../img/dark.jpg); }
+.light { background: #ddd; }
+.dark { background: #6f6f6f; }
 .chessBoard { border: 1px solid black; }
 .gutter { background: grey; height: 626px; margin: -7px 0 0 0; }
-.square img { margin: 6px 0 0 6px; z-index: 10000; }
+.square img { margin: 6px 0 0 8px; z-index: 10000; }

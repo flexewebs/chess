@@ -10,164 +10,83 @@
         <div class="row chessBoard">
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/wrook.png" />
+                    <img src="img/wr.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/wknight.png" />
+                    <img src="img/wn.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/wbishop.png" />
+                    <img src="img/wb.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/wqueen.png" />
+                    <img src="img/wq.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/wking.png" />
+                    <img src="img/wk.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/wbishop.png" />
+                    <img src="img/wb.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/wknight.png" />
+                    <img src="img/wn.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/wrook.png" />
+                    <img src="img/wr.png" />
                 </div>
             </div>
             
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/wpawn.png" />
+                    <img src="img/wp.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/wpawn.png" />
+                    <img src="img/wp.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/wpawn.png" />
+                    <img src="img/wp.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/wpawn.png" />
+                    <img src="img/wp.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/wpawn.png" />
+                    <img src="img/wp.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/wpawn.png" />
+                    <img src="img/wp.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/wpawn.png" />
+                    <img src="img/wp.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/wpawn.png" />
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square dark">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square light">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square dark">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square light">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square dark">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square light">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square dark">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square light">
-
-                </div>
-            </div>
-            
-            <div class="large-2 middle-2 columns">
-                <div class="square light">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square dark">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square light">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square dark">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square light">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square dark">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square light">
-
-                </div>
-            </div>
-            <div class="large-2 middle-2 columns">
-                <div class="square dark">
-
+                    <img src="img/wp.png" />
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
@@ -253,83 +172,164 @@
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/bpawn.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/bpawn.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/bpawn.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/bpawn.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/bpawn.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/bpawn.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/bpawn.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/bpawn.png" />
+
                 </div>
             </div>
             
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/brook.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/bknight.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/bbishop.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/bqueen.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/bking.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/bbishop.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square light">
-                    <img src="img/bknight.png" />
+
                 </div>
             </div>
             <div class="large-2 middle-2 columns">
                 <div class="square dark">
-                    <img src="img/brook.png" />
+
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square dark">
+                    <img src="img/bp.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square light">
+                    <img src="img/bp.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square dark">
+                    <img src="img/bp.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square light">
+                    <img src="img/bp.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square dark">
+                    <img src="img/bp.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square light">
+                    <img src="img/bp.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square dark">
+                    <img src="img/bp.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square light">
+                    <img src="img/bp.png" />
+                </div>
+            </div>
+            
+            <div class="large-2 middle-2 columns">
+                <div class="square light">
+                    <img src="img/br.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square dark">
+                    <img src="img/bn.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square light">
+                    <img src="img/bb.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square dark">
+                    <img src="img/bq.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square light">
+                    <img src="img/bk.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square dark">
+                    <img src="img/bb.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square light">
+                    <img src="img/bn.png" />
+                </div>
+            </div>
+            <div class="large-2 middle-2 columns">
+                <div class="square dark">
+                    <img src="img/br.png" />
                 </div>
             </div> 
         </div>    
